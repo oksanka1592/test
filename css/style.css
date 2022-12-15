@@ -2,3 +2,7 @@ body{
   color: aquamarine;
   background: #000;
 }
+.header{
+  margin: 0;
+  padding: 0;
+}
